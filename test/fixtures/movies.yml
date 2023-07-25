@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  year: 1
+  director: one
+  actor: one
+  location: one
+
+two:
+  description: MyString
+  year: 1
+  director: two
+  actor: two
+  location: two
